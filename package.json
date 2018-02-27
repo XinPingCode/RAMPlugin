@@ -1,0 +1,17 @@
+{
+  "name": "RAMPlugin",
+  "version": "0.0.2",
+  "description": "",
+  "cordova": {
+    "id": "RAMPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "ChenXinPing",
+  "license": "ISC"
+}
